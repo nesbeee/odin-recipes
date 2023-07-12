@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project I've done which is to create a webpage of listed recipes from my favorite foods. These are then linked to other webpages I've created that has its own recipe. This project was guided by the tutorials of the Odin Project.
